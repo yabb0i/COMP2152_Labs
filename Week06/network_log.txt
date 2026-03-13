@@ -1,0 +1,12 @@
+[2026-02-20 14:41:43] PING google.com
+
+Pinging google.com [2607:f8b0:4023:1804::65] with 32 bytes of data:
+Reply from 2607:f8b0:4023:1804::65: time=19ms 
+Reply from 2607:f8b0:4023:1804::65: time=17ms 
+Reply from 2607:f8b0:4023:1804::65: time=22ms 
+
+Ping statistics for 2607:f8b0:4023:1804::65:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 22ms, Average = 19ms
+----------------------------------------
