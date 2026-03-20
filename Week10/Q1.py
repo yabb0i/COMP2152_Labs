@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 10 LAB — Q1: PASSWORD VAULT
-#  COMP2152 — Maziar Sojoudian
+#  COMP2152 — Clein Ecoy
 # ============================================================
 
 import sqlite3
@@ -57,8 +57,8 @@ if __name__ == "__main__":
     print("\n--- Adding Credentials ---")
     credentials = [
         ("github.com",  "admin",        "s3cur3P@ss"),
-        ("google.com",  "maziar@gmail",  "MyP@ssw0rd"),
-        ("netflix.com", "maziar",        "N3tfl1x!"),
+        ("google.com",  "clein.ecoy@gmail",  "MyP@ssw0rd"),
+        ("netflix.com", "Eco",        "N3tfl1x!"),
         ("github.com",  "work_user",    "W0rkP@ss!"),
     ]
     for site, user, pw in credentials:
